@@ -63,7 +63,7 @@ else:
 # Screenshots:
 
 ## Valid input
-![Valid Zodiac Output](Screenshot-ValidInput-zodiac9-BerylliumRamirez.png)
+![Valid Zodiac Output](Screenshot-ValidInput-zodiac9-BerylliumRamirez.PNG)
 
 ## Invalid inputt
-![Invalid Zodiac Output](Screenshot-InvalidInput-zodiac9-BerylliumRamirez.png)
+![Invalid Zodiac Output](Screenshot-InvalidInput-zodiac9-BerylliumRamirez.PNG)

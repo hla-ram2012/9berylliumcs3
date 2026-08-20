@@ -32,33 +32,33 @@ For each sub-problem, apply CT skills:
 
 ## 1. Ordering Delays
 
-**CT Skill:** Decomposition *(or Abstraction)*
+**CT Skill:** Decomposition *(or Abstraction)* - used for decision delays because it breaks down the complex menu and ordering process into smaller, simpler choices for students to handle step-by-step.
 
 **Example solution:** Create a digital menu board displaying only the food name, the price, and  the current availability so students can decide before reaching the counter.
 
 ## 2. Manual Transaction Bottleneck
 
-**CT Skill:** Algorithm Design
+**CT Skill:** Algorithm Design - used for manual checkout and crowd management because it creates a step-by-step, automated processes to handle math.
 
 **Example solution:** Program a basic system that automatically sums item costs, applies discounts, and calculates exact change instantly, and displays the amount in a digital screen.
 
 ## 3. Inventory Tracking Failure
 
-**CT Skill:** Pattern Recognition
+**CT Skill:** Pattern Recognition - used for inventory blindness because it identifies trends and recurring data over time, allowing the canteen to predict when food items will run out based on past sales history.
 
 **Example solution:** Design an automated database that shows the stock of each item dynamically upon purchase and triggers an alert or a signal when an item is close to running out.
 
 # Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
 
 START
-    DISPLAY available_food_items
-    total = 0
-    FOR EACH item ordered
-        ADD item price TO total
-    DISPLAY total
-    INPUT cash_given
-    change = cash_given - total
-    DISPLAY change
-    GIVE change
-    UPDATE available_food_items
+DISPLAY available_food_items
+total = 0
+FOR EACH item ordered
+    ADD item price TO total
+DISPLAY total
+INPUT cash_given
+change = cash_given - total
+DISPLAY change
+GIVE change
+UPDATE available_food_items
 END

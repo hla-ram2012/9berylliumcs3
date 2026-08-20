@@ -50,15 +50,15 @@ For each sub-problem, apply CT skills:
 
 # Step 4: Draw a flowchart or write a pseudocode for the identified sub-problem
 
-START
-DISPLAY available_food_items
-total = 0
-FOR EACH item ordered
-    ADD item price TO total
-DISPLAY total
-INPUT cash_given
-change = cash_given - total
-DISPLAY change
-GIVE change
-UPDATE available_food_items
-END
+- START
+- DISPLAY available_food_items
+- total = 0
+- FOR EACH item ordered
+    - ADD item price TO total
+- DISPLAY total
+- INPUT cash_given
+- change = cash_given - total
+- DISPLAY change
+- GIVE change
+- UPDATE available_food_items
+- END

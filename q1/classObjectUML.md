@@ -19,7 +19,7 @@
 | displayListofFriendsinPisay() | Displays the list of friends in Pisay. |
 | displayInfo(Selected_Friend) | Displays the information of the selected friend. |
 ## Class Diagram
-![Class Diagram](images/classDiagram.png)
+![Class Diagram](q1/classDiagram.png)
 ## Design Explanation
 ### Why did you choose this class?
 ### Which property is the most important? Why?

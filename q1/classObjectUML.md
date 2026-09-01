@@ -20,6 +20,7 @@
 | displayInfo(Selected_Friend) | Displays the information of the selected friend. |
 ## Class Diagram
 ![Class Diagram](classDiagram.png)
+
 ## Design Explanation
 ### Why did you choose this class?
 ### Which property is the most important? Why?

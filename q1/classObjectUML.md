@@ -23,5 +23,8 @@
 
 ## Design Explanation
 ### Why did you choose this class?
+I chose this class because I personally want to keep track of all of my friends, monitoring whether I still talk to him or her, whether our friendship level is still able to keep its title, or if they have been promoted a grade level.
 ### Which property is the most important? Why?
+Name; without the name, the user will not be able to identify who the information is referring to, completely destroying the whole purpose of the class.
 ### Which method is the most useful? Why?
+addFriend(Input_Name); because it is the so-called "foundation" of the entire class; without it, there wouldn't be friends in the list to begin with, destroying the whole purpose of the class.

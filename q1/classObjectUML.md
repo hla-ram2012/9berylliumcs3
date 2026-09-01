@@ -1,13 +1,13 @@
 # SG4 - Understanding Classes and Objects
-## Class Name
+## Friends in Pisay
 ## Class Description
 ## Properties
 | Property | Data Type | Description |
 |---|---|---|
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Name | string | Name of friend in Pisay |
+| GradeLevel | int | Grade level of friend currently |
+| Section | string | Section of friend currently |
+| FriendshipLevel | boolean | Friendship Level of friend currently (More than BFF, BFF, Close Friend, Friend) |
 ## Methods
 | Method | Description |
 |---|---|

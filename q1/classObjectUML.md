@@ -13,7 +13,7 @@
 |---|---|
 | addFriend(Input_Name) | Adds a person as a friend, adding him or her in the list of friends in pisay. |
 | removeFriend(Selected_Friend) | Removes a person as a friend, removing him or her in the list. |
-| updateFriendshipLevel(Selected_Friend) | Updates a selected friend's friendship level to either *More than BFF*, *BFF*, *Close Friend*, or *Friend*. |
+| updateFriendshipLevel(Selected_Friend) | Updates a selected friend's friendship level to either ***More than BFF***, ***BFF***, ***Close Friend***, or ***Friend***. |
 | updateGradeLevel(Selected_Friend) | Updates a selected friend's grade level to his or her grade level currently. |
 | updateSection(Selected_Friend) | Updates a selected friend's section to his or her section currently. |
 | displayListofFriendsinPisay() | Displays the list of friends in Pisay. |

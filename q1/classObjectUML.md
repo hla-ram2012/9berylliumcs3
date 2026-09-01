@@ -10,9 +10,11 @@
 |  |  |  |
 ## Methods
 | Method | Description |
-|---|---|| | |
-| | |
-| | |
+|---|---|
+|  |  |
+|  |  |
+|  |  |
+
 ## Class Diagram
 ![Class Diagram](images/classDiagram.png)
 ## Design Explanation

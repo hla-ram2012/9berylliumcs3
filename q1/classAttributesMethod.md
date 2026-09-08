@@ -11,7 +11,6 @@ Describe any changes made to your original class.
 | GradeLevel | Integer | Public | Public so that anyone can see my friend's grade level. |
 | Section | String | Public | Public so that anyone can see my friend's section. |
 | FriendshipLevel | String | Private | Private so that I am the only one who can see my relationship with my friend.. |
-+--------------------------------------------+
 ## Updated UML Class Diagram
 ![Class Diagram](classDiagramSG5.png)
 ## Python Implementation
@@ -20,7 +19,7 @@ Describe any changes made to your original class.
 ## Test Run
 ![Test Run](classTestRun.png)
 ## Object Diagram
-![Object Diagram](images/objectDiagram.png)
+![Object Diagram](objectDiagram.png)
 ## Analysis
 ### Why did you make your chosen attribute private?
 ### Which method changes the state of your object?

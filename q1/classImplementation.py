@@ -24,15 +24,10 @@ object2 = FriendinPisay("Chance Caminar", 9, "Silicon", "Best Friends")
 
 print("---Before---")
 print(object1.displayInfo())
-print('')
 print(object2.displayInfo())
-print('')
-print('')
 print(f"Changing Grade Level of {object1.Name}..")
-Input_GradeLevel = int(input("Grade Level of friend: "))
+Input_GradeLevel = 9
 object1.GradeLevel = Input_GradeLevel
-print('')
 print("---After---")
 print(object1.displayInfo())
-print('')
 print(object2.displayInfo())

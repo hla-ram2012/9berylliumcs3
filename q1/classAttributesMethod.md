@@ -18,7 +18,7 @@ Describe any changes made to your original class.
 
 [View Python Source](classImplementation.py)
 ## Test Run
-![Test Run](images/classTestRun.png)
+![Test Run](classTestRun.png)
 ## Object Diagram
 ![Object Diagram](images/objectDiagram.png)
 ## Analysis

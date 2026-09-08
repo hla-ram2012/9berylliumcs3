@@ -3,7 +3,9 @@
 Link to my previous activity:
 [classObjectUML.md](classObjectUML.md)
 ## Design Revision
-Describe any changes made to your original class.
+Changes from my previous design:
+- Removal of methods: addFriend(Input_Name), removeFriend(Selected_Friend), displayListofFriendsinPisay()
+- Change from Selected_Friend to Input_GradeLevel (for updateGradelevel), Input_Section (for updateSection) and Input_FriendshipLevel (for updateFriendshipLevel)
 ## Visibility Decisions
 | Attribute | Data Type | Visibility | Reason |
 |---|---|---|---|

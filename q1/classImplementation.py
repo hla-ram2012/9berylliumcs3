@@ -3,7 +3,7 @@ class FriendinPisay:
         self.Name = Name
         self.GradeLevel = GradeLevel
         self.Section = Section
-        self.FriendshipLevel = FriendshipLevel
+        self.__private_FriendshipLevel = FriendshipLevel
     
     def updateFriendshipLevel(self, Input_FriendshipLevel):
         self.FriendshipLevel = Input_FriendshipLevel

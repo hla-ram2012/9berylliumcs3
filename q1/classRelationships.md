@@ -24,7 +24,7 @@ Multiplicity: Friend Group 0..* ───────── 1..* Friend in Pisay
 Explanation: A friend group (if the friend doesn't have a friend group, then it will display "N/A") can be assigned to or contain the user's friend/s that are in Pisay.
 
 ## UML Class Relationship Diagram
-![Class Relationship Diagram](images/classRelationshipDiagram.png)
+![Class Relationship Diagram](classRelationshipDiagram.png)
 
 ## Python Implementation
 [View Python Source](classRelationships.py)

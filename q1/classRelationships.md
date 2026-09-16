@@ -27,7 +27,7 @@ Explanation: A friend group (if the friend doesn't have a friend group, then it 
 ![Class Relationship Diagram](classRelationshipDiagram.png)
 
 ## Python Implementation
-[View Python Source](classRelationships.py)
+[View Python Source](classRelationship.py)
 
 ## Test Run
 ![Relationship Test Run](relationshipTestRun.png)

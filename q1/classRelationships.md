@@ -30,7 +30,7 @@ Explanation: A friend group (if the friend doesn't have a friend group, then it 
 [View Python Source](classRelationship.py)
 
 ## Test Run
-![Relationship Test Run](RelationshipTestRun.png)
+![Relationship Test Run](RelationshipTestRun.PNG)
 
 ## Object Relationship Diagram
 ![Object Relationship Diagram](objectRelationshipDiagram.png)

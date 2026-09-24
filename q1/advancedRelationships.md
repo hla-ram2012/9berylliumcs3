@@ -27,7 +27,7 @@ Explanation: The class FriendinPisay_BestFriend cannot meaningfully exist withou
 ## Python Implementation
 [Source Code](advancedRelationships.py)
 ## Test Run
-![Test](advancedTestRun.png)
+![Test](advancedTestRun.PNG)
 ## Object Diagram
 ![Objects](advancedObjectDiagram.png)
 

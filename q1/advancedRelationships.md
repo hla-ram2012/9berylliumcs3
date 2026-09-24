@@ -4,11 +4,9 @@
 [classRel](classRelationships.md)
 ## Existing System Description:
 1. What classes currently exist in your system?
-
 Class Friend in Pisay and Friend Group.
 
 2. What problem or limitation exists in your current design?
-
 **Unable to access the information of each friend in pisay through the class Group Friends** - The user is only able to access the information of each friend by looking or using the individual class Friend in Pisay. Thus, the names of each friend will appear in the class Group Friends, but each of their information will not be publicly shown.
 
 ## Inheritance Relationship

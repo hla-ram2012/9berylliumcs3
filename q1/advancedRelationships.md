@@ -25,7 +25,7 @@ Explanation: The class FriendinPisay_BestFriend cannot meaningfully exist withou
 ## Advanced UML Diagram
 ![Advanced UML](advancedClassDiagram.png)
 ## Python Implementation
-[Source Code](advancedRelationships.py)
+[Source Code](advancedRelationship.py)
 ## Test Run
 ![Test](advancedTestRun.PNG)
 ## Object Diagram

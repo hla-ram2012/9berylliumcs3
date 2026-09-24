@@ -17,19 +17,19 @@ Child: FriendinPisay
 Explanation: The parent class Friend contains the information, while the child class FriendinPisay inherits these feature and determines the FriendshipLevel of the Friend to the user. Also, the child class has methods like updating the friendship level, updating the grade level, and updating the section.
 
 ## Inheritance UML
-![Inheritance](images/inheritanceDiagram.png)
+![Inheritance](inheritanceDiagram.png)
 ## Composition/Aggregation
 Relationship: Aggregation
 
 Explanation: The class FriendinPisay_BestFriend cannot meaningfully exist without the class Friend in Pisay; however, class FriendinPisay can exist independently, possibly having their Best Friend assigned to them or not if they don't have any, ultimately making the class FriendinPisay_BestFriend HAS-A weak relationship with class FriendinPisay.
 ## Advanced UML Diagram
-![Advanced UML](images/advancedClassDiagram.png)
+![Advanced UML](advancedClassDiagram.png)
 ## Python Implementation
 [Source Code](advancedRelationships.py)
 ## Test Run
-![Test](images/advancedTestRun.png)
+![Test](advancedTestRun.png)
 ## Object Diagram
-![Objects](images/advancedObjectDiagram.png)
+![Objects](advancedObjectDiagram.png)
 
 ## Reflection
 

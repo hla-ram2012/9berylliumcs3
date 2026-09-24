@@ -11,7 +11,9 @@ Class Friend in Pisay and Friend Group.
 
 ## Inheritance Relationship
 Parent: Friend Group
+
 Child: Friend in Pisay
+
 Explanation: Class Group Friends contain atleast two or many class Friend in Pisay. Thus, we can be able to classify each class Friend in Pisay to their respective Group Friends.
 
 ## Inheritance UML

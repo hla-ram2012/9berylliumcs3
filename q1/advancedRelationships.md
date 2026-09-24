@@ -32,4 +32,13 @@ Explanation: The class FriendinPisay_BestFriend cannot meaningfully exist withou
 ![Objects](images/advancedObjectDiagram.png)
 
 ## Reflection
-Answers:
+
+1.) A FriendinPisay is-a specific type of Friend. It inherits all the information of a friend. However, it extends them with specialized traits unique to being a student at Pisay and its relationship with the user (such as friendship level).
+
+2.) The child class reuses the information-holding attributes from the Friend class. Because of this, FriendinPisay is to focus only on defining its unique methods. For example, updating the friendship level, updating the grade level, and updating the section.
+
+3.) They have independent lifecycles. A FriendinPisay can exist perfectly fine on its own without having a designated best friend. And, if the relationship ends or changes, both individual object instances continue to exist independently in the system.
+
+4.) Implements strict structural hierarchies. The inheritance relationship establishes a specialized is-a lineage. The aggregation relationship in the other hand, organizes objects into a clear whole-to-part (HAS-A) hierarchy with weak ownership.
+
+5.) The design isolates shared data structures and logic into a single source of truth within the parent Friend class. By leveraging inheritance, you eliminate the need to copy-paste core friend attributes into specialized subclasses. Because of this, it ensures that any future updates to generic friend behavior only need to be modified in one single place.

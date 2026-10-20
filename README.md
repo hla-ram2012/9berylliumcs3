@@ -15,3 +15,4 @@
 ## Quarter 2
 
 - [SG8 Encapsulation](q2/sg8_encapsulation.py)
+- [SG9 Inheritance](q2/sg9_inheritance.py)

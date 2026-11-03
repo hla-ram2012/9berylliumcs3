@@ -16,3 +16,4 @@
 
 - [SG8 Encapsulation](q2/sg8_encapsulation.py)
 - [SG9 Inheritance](q2/sg9_inheritance.py)
+- [SG10 Method and Overriding](q2/sg10_method&overriding.py)

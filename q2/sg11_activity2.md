@@ -11,7 +11,7 @@ The car class need to have the same method name and parameters so that it could 
 ## Number 2:
 ### Python Code:
 
-- ![Python Code](q2/sg11_activity2.py)
+![Python Code](9berylliumcs3/q2/sg11_activity2.py)
 ```python
 class Car(): #Creates a class that represents a car
     def start_trip(self, vehicle): #Creates a method that indicates the start trip of the car
